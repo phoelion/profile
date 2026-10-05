@@ -1,1 +1,1 @@
-# Noobs are not allowed here!
+# Only good architectures are approved here.
